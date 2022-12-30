@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gigachad23445
-- 👀 I’m interested in music
-- 🌱 I’m currently learning in school
+- 👀 I’m interested in music and im a music producer
+- 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate with some youtubes
-- 📫 How to reach me my gmail aswinlol62@gmail.com
+- 📫 How to reach me my gmail aswinsaran10@gmail.com
+
 
 <!---
 gigachad23445/gigachad23445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
